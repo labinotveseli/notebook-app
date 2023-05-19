@@ -23,3 +23,10 @@ The My Note app is a simple note-taking application that allows users to create,
 
 <b>You can try the Demo of this App here:</b> 
 - [PhoneBook APP](https://notebook-mynote.netlify.app/)
+  
+  <hr>
+<p align="center">
+<b>Here you can see the layout of the App:</b>
+<hr>
+<img src="https://i.postimg.cc/bvhhzSdL/note1.jpg" height="100%" width="100%" alt="phonebook1"/>
+<hr>
