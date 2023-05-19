@@ -6,7 +6,7 @@ const App = () => {
     JSON.parse(localStorage.getItem("notes")) || []
   );
   const [searchInput, setSearchInput] = useState("");
-  const [showAddForm, setShowAddForm] = useState(false);
+  const [setShowAddForm] = useState(false);
   const [displayedNotes, setDisplayedNotes] = useState([]);
   const [searchedNotes, setSearchedNotes] = useState([]);
   const [showForm, setShowForm] = useState(true);
