@@ -12,17 +12,16 @@ The My Note app is a simple note-taking application that allows users to create,
 - <b>CSS</b>
 
 <h2>File Structure</h2>
-
-- <b>NoteForm.js: Component for the note creation form.
+- <b>NoteForm.js: It provides a form for creating a new note.
 - <b>App.js: The main component that serves as the entry point for the app.
-- <b>index.js: Renders the root component and mounts the app into the DOM.
-- <b>index.html: The HTML template file that serves as the entry point for the app.
-- <b>package.json: Contains the project's metadata and dependencies.
+- <b>index.js: This file is the entry point of the application.
+- <b>index.css: Contains the CSS styles for the applications
+- <b>NoteList.js: Contains the NoteList component. It renders a list of notes.
 
 <h2>App walk-through:</h2>
 
 <b>You can try the Demo of this App here:</b> 
-- [PhoneBook APP](https://notebook-mynote.netlify.app/)
+- [My Note APP](https://notebook-mynote.netlify.app/)
   
   <hr>
 <p align="center">
