@@ -12,6 +12,7 @@ The My Note app is a simple note-taking application that allows users to create,
 - <b>CSS</b>
 
 <h2>File Structure</h2>
+
 - <b>NoteForm.js: It provides a form for creating a new note.
 - <b>App.js: The main component that serves as the entry point for the app.
 - <b>index.js: This file is the entry point of the application.
